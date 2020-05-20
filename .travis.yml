@@ -11,4 +11,4 @@ trabajos :
       script : ./mvnw prueba limpia
 
 notificación :
-  correo electrónico : info@techprimers.com
+  correo electrónico : leonardoguillen946@gmail.com
